@@ -1,5 +1,5 @@
 # Faultxcel
-Fault seal analysis: Reservoir Juxtaposition and SGR triangular diagram
+Fault seal analysis: Reservoir juxtaposition and SGR triangular diagram
 
 Faultxcel is macro based excel to determine the fault associated uncertainties. The excel can be helpful iduring hydrocarbon prospect analysis.
 The excel generates triangular juxtaposition and shale gauge ratio diagram. Analysis on fault geometry and across fault pressure difference can be done to reduce uncertainty associated with fault sealing. 
