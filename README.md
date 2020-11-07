@@ -22,7 +22,7 @@ The present version is v1.16 beta testing version.
 # Reported Bugs
 The following bugs are reported in the present version of the macro based excel. The reported bugs are not related to technical analysis and will be solved in the following versions.
 
-  1. Error regarding non zero value during data plotting during 'Fault Geometry' and 'AFPD' analysis.
+  1. Error regarding non zero value during data plotting while 'Fault Geometry' and 'AFPD' analysis.
   
       Solution: Redo the analysis. No pop-up in the consequent try.
       
