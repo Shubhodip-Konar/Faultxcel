@@ -39,7 +39,7 @@ The following bugs are reported in the present version of the macro based excel.
       Solution: Manually clean the manual data upload sheet.
       
  
-In case if you find any bug in the present beta version please revert back with details of the same to shubhodip.konar@gmail.com. Mention 'Faultxcel Bug' in the subject head
+In case if you find any bug in the present beta version please revert back with details of the same to shubhodip.konar@gmail.com. Mention 'Faultxcel Bug' in the subject head.
 
 # Next Version
 The developer plans to release the next version by November 2021 with significant upgradation and bug fixing. Along with that, extensive user help sections will be added to make it more user friendly.
