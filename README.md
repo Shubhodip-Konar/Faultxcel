@@ -9,6 +9,7 @@ The macros are written in excel 2017. No specific software required running this
 
 # Usage
 The excel is self explanatory, built as a workflow. The only worksheet avaliable is write protected, with the buttuons for data input and analysis. Simple explanations are provided against the buttons for the user. As a workflow, the buttuons are greyed out and deactivated intially and only get activated upon completion of a required input. 
+Well logs in .las format only can be uploaded using 'las load' button. The data has to be loaded in 1m interval for analysis. The required instructions are posted in the requisite section forms. 
 The button 'Print Report', activated all throughout, can be used to print high qualities of images of the analysis. The images ares stored in a separate folder, with name including the prospect name, date of print and interpreter's name, in the location of the excel file.
 The button 'Clear Slate' removes any previous analysis within the excel sheet. 
 
@@ -29,8 +30,13 @@ The following bugs are reported in the present version of the macro based excel.
   3. Temporary folders don't clear up sometime. This results in same analysis window popping out even though some parameters are changed.
   
       Solution: Manually clean system temporary folder.
+      
+  4. 'Clear Slate' button do not clear the manual data upload sheet.
+  
+      Solution: Manually clean the manual data upload sheet.
+      
  
 In case if you find any bug in the present beta version please revert back with details of the same to shubhodip.konar@gmail.com. Mention 'Faultxcel Bug' in the subject head
 
 # Next Version
-The developer plans to release the next version by November 2021 with significant upgradation and bug fixing. 
+The developer plans to release the next version by November 2021 with significant upgradation and bug fixing. Along with that, extensive user help sections will be added to make it more user friendly.
