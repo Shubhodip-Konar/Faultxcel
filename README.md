@@ -30,7 +30,7 @@ The following bugs are reported in the present version of the macro based excel.
       
       Solution: The user needs to use slider bar for Vshale setting at least once.
       
-  3. Temporary folders don't clear up sometime. This results in same analysis window popping out even though some parameters are changed.
+  3. Temporary folders don't clear up sometime. This result is same analysis window popping out even though some parameters are changed.
   
       Solution: Manually clean system temporary folder.
       
