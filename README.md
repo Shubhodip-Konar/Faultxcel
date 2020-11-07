@@ -5,7 +5,7 @@ Faultxcel is macro based excel to determine the fault associated uncertainties. 
 The excel generates triangular juxtaposition and shale gauge ratio diagram. Analysis on fault geometry and across fault pressure difference can be done to reduce uncertainty associated with fault sealing. 
 
 # Installation
-The macros are written in excel 2017. No specific software required running this excel. The excel is supposed to be a standalone analysis for individual faults under consideration. The analysis results can be published multiple times on requirement.  
+The macros are written in excel 2019. No specific software required running this excel. The excel is supposed to be a standalone analysis for individual faults under consideration. The analysis results can be published multiple times on requirement.  
 
 # Usage
 The excel is self explanatory, built as a workflow. The only worksheet avaliable is write protected, with the buttuons for data input and analysis. Simple explanations are provided against the buttons for the user. As a workflow, the buttuons are greyed out and deactivated intially and only get activated upon completion of a required input. <br />
