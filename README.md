@@ -1,18 +1,18 @@
 # Faultxcel
 Fault seal analysis: Reservoir juxtaposition and SGR triangular diagram
 
-Faultxcel is macro based excel to determine the fault associated uncertainties. The excel can be helpful iduring hydrocarbon prospect analysis.
-The excel generates triangular juxtaposition and shale gauge ratio diagram. Analysis on fault geometry and across fault pressure difference can be done to reduce uncertainty associated with fault sealing. 
+Faultxcel is macro based excel to determine the fault associated uncertainties. The excel can be helpful during hydrocarbon prospect analysis.
+It generates triangular juxtaposition and shale gauge ratio diagram. Analysis on fault geometry and across fault pressure difference can be done to reduce uncertainty associated with fault sealing. 
 
 # Installation
-The macros are written in excel 2019. No specific software required running this excel. The excel is supposed to be a standalone analysis for individual faults under consideration. The analysis results can be published multiple times on requirement.  
+The macros are written in excel 2019. No specific software is required. The excel is supposed to be a standalone analysis for individual faults under consideration. The analysis results can be published multiple times on requirement.  
 
 # Usage
-The excel is self explanatory, built as a workflow. The only worksheet avaliable is write protected, with the buttuons for data input and analysis. Simple explanations are provided against the buttons for the user. As a workflow, the buttuons are greyed out and deactivated intially and only get activated upon completion of a required input. <br />
+The excel is self explanatory, built as a workflow. The only worksheet avaliable is write protected, with the buttons for data input and analysis. Simple explanations are provided against the buttons for the user. As a workflow, the buttons are greyed out and deactivated intially and only get activated upon completion of a required input. <br />
 
 Well logs in .las format only can be uploaded using 'las load' button. The data has to be loaded in 1m interval for analysis. The required instructions are posted in the requisite section forms. <br />
 
-The button 'Print Report', activated all throughout, can be used to print high qualities of images of the analysis. The images ares stored in a separate folder, with name including the prospect name, date of print and interpreter's name, in the location of the excel file. <br />
+The button 'Print Report', activated all throughout, can be used to print high qualities of images of the analysis. The images are stored in a separate folder, named the prospect name, date of print and interpreter's name, in the location of the excel file. <br />
 
 The button 'Clear Slate' removes any previous analysis within the excel sheet. 
 
